@@ -49,16 +49,15 @@ npm install
 
 Start the backend server:
 
-```bash
+cd webserver
+npm install
 npm start
-```
 
 Start the frontend client in a separate terminal:
 
-```bash
-cd ../client
+cd client
+npm install
 npm start
-```
 
 ## Notes
 
